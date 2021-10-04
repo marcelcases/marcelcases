@@ -1,4 +1,14 @@
+<img align="right" height="200px" width="200px" alt="Marcel" src="https://avatars.githubusercontent.com/u/25352828"/>
+
 ### Hi there 👋
+
+I am an **electronics engineer** and **informatics student** based in 📍 Barcelona.  
+
+Passionate about innovation and the application of informatics to real-life challenges.  
+
+🌐 [marcelcases.com](https://marcelcases.com/)  
+📫 [m@rcel.xyz](mailto:m@rcel.xyz)  
+🐦 [twitter.com/marcelcases](https://twitter.com/marcelcases)
 
 <!--
 **marcelcases/marcelcases** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
