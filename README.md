@@ -1,4 +1,6 @@
+<!--
 <img align="right" height="200px" width="200px" alt="Marcel" src="https://avatars.githubusercontent.com/u/25352828"/>
+-->
 
 ### Hi there 👋
 
