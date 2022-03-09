@@ -8,8 +8,8 @@ I am an **electronics engineer** and **informatics student** based in 📍 Barce
 
 Passionate about innovation and the application of informatics to real-life challenges.  
 
-🌐 [marcelcases.com](https://marcelcases.com/)  
 📫 [m@rcel.xyz](mailto:m@rcel.xyz)  
+🌐 [marcelcases.com](https://marcelcases.com/)  
 🐦 [twitter.com/marcelcases](https://twitter.com/marcelcases)
 
 <!--
