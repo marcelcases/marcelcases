@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am an **electronics engineer** and **informatics student** based in 📍 Barcelona.  
+I am an **engineer** and **informatics student** based in 📍 Barcelona.  
 
 Passionate about innovation and the application of informatics to real-life challenges.  
 
