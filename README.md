@@ -4,13 +4,13 @@
 
 ### Hi there 👋
 
-I am an **engineer** and **informatics student** based in 📍 Barcelona.  
+I am an Engineer and Software Developer based in 📍 Barcelona.  
 
 Passionate about innovation and the application of informatics to real-life challenges.  
 
 📫 [m@rcel.xyz](mailto:m@rcel.xyz)  
 🌐 [marcelcases.com](https://marcelcases.com/)  
-🐦 [twitter.com/marcelcases](https://twitter.com/marcelcases)
+X [x.com/marcelcases](https://x.com/marcelcases)
 
 <!--
 **marcelcases/marcelcases** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
